@@ -25,6 +25,7 @@ function App() {
 
   return (
     <div>
+      <h1>Learn React - v18.3.1</h1>
       <h1 className='title'>Props in React</h1>
       <ChildA username='jordan_walke' password='react@123' />
       <ChildB email='reactv18@gmail.com' logo={imagepath}/>
